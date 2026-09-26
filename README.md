@@ -216,4 +216,4 @@ Unreal Engine (UDK) is available as a full free version with all features and up
 Start your game development journey today with Unreal Engine (UDK) — download it for free and unleash your creativity!
 
 ---
-**Last updated:** 2026-09-26 08:07:49 UTC
+**Last updated:** 2026-09-26 13:29:09 UTC
